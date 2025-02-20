@@ -1,0 +1,19 @@
+
+img{
+    border-radius: 50%;
+    border:10px solid #548AB7;
+}
+
+h2{
+color: #548AB7;
+}
+
+hr{
+    color: #548AB7;  
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
