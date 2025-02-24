@@ -17,3 +17,16 @@ a{
     color: inherit;
 }
 
+
+
+#Bio{
+    display: flex;
+}
+
+#Aboutlist{
+    list-style: none;
+}
+
+#EDU{
+    list-style: none;
+}
